@@ -71,13 +71,6 @@ class Header extends HTMLElement{
 	<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-376"><a href="ClientsAndProjectsPTNES.html">Clients &amp; Projects</a></li>
 </ul>
 </li>
-<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-36 has-child"><a href="#">Project</a><div class="fa fa-angle-right submenu-toogle"></div>
-<ul class="sub-menu">
-	<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="https://ptnes.net/project-grid/">Project Grid</a></li>
-	<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="https://ptnes.net/project-carousel/">Project Carousel</a></li>
-	<li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-374"><a href="https://ptnes.net/projects/mechanical-engineering/">Project Detail</a></li>
-</ul>
-</li>
 <li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="https://ptnes.net/our-team/">Affiliates</a></li>
 <li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page page-item-361 "><a href="https://ptnes.net/blog-grid/" aria-current="page">News &amp; Article</a></li>
 <li id="menu-item-1104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1104"><a href="#">Certificates</a></li>
