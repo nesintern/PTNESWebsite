@@ -71,7 +71,7 @@ class Header extends HTMLElement{
 </ul>
 </li>
 <li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="ClientsPTNES.html">Affiliates</a></li>
-<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page page-item-361 "><a href="NewsBlogPTNES" aria-current="page">News &amp; Article</a></li>
+<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page page-item-361 "><a href="NewsBlogPTNES.html">News &amp; Article</a></li>
 <li id="menu-item-1104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1104"><a href="#">Certificates</a></li>
 <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="ContactPTNES.html">Contact Us</a></li>
 </ul>
