@@ -1,0 +1,62 @@
+
+@font-face {
+  font-family: "Flaticon2";
+  src: url("../new1_fonts/Flaticon.eot");
+  src: url("../new1_fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../new1_fonts/Flaticon.woff") format("woff"),
+       url("../new1_fonts/Flaticon.ttf") format("truetype"),
+       url("../new1_fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon2";
+    src: url("../new1_fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+[class^="flaticon2-"]:before, [class*=" flaticon2-"]:before,
+[class^="flaticon2-"]:after, [class*=" flaticon2-"]:after{font-family:Flaticon2;font-style:normal;}
+
+.new1-wt-icon-box-xl [class^="flaticon2-"]:before, .new1-wt-icon-box-xl [class*=" flaticon2-"]:before,
+.new1-wt-icon-box-xl [class^="flaticon2-"]:after, .new1-wt-icon-box-xl [class*=" flaticon2-"]:after{font-size:96px;}
+.new1-wt-icon-box-lg [class^="flaticon2-"]:before, .new1-wt-icon-box-lg [class*=" flaticon2-"]:before,
+.new1-wt-icon-box-lg [class^="flaticon2-"]:after, .new1-wt-icon-box-lg [class*=" flaticon2-"]:after{font-size:72px;}
+.new1-wt-icon-box-md [class^="flaticon2-"]:before, .new1-wt-icon-box-md [class*=" flaticon2-"]:before,
+.new1-wt-icon-box-md [class^="flaticon2-"]:after, .new1-wt-icon-box-md [class*=" flaticon2-"]:after{font-size:58px;}
+.new1-wt-icon-box-sm [class^="flaticon2-"]:before, .new1-wt-icon-box-sm [class*=" flaticon2-"]:before,
+.new1-wt-icon-box-sm [class^="flaticon2-"]:after, .new1-wt-icon-box-sm [class*=" flaticon2-"]:after{font-size:48px;}
+.new1-wt-icon-box-xs [class^="flaticon2-"]:before, .new1-wt-icon-box-xs [class*=" flaticon2-"]:before,
+.new1-wt-icon-box-xs [class^="flaticon2-"]:after, .new1-wt-icon-box-xs [class*=" flaticon2-"]:after{font-size:24px;}
+
+
+
+.flaticon2-checked:before { content: "\f100"; }
+.flaticon2-right:before { content: "\f101"; }
+.flaticon2-left:before { content: "\f102"; }
+.flaticon2-chat:before { content: "\f103"; }
+.flaticon2-lightbulb:before { content: "\f104"; }
+.flaticon2-antivirus:before { content: "\f105"; }
+.flaticon2-customer-service:before { content: "\f106"; }
+.flaticon2-physics:before { content: "\f107"; }
+.flaticon2-graphic-tool:before { content: "\f108"; }
+.flaticon2-quote:before { content: "\f109"; }
+.flaticon2-quote-1:before { content: "\f10a"; }
+.flaticon2-mail:before { content: "\f10b"; }
+.flaticon2-worker:before { content: "\f10c"; }
+.flaticon2-briefing:before { content: "\f10d"; }
+.flaticon2-reliability:before { content: "\f10e"; }
+.flaticon2-helmet:before { content: "\f10f"; }
+.flaticon2-trophy:before { content: "\f110"; }
+.flaticon2-deal:before { content: "\f111"; }
+.flaticon2-location:before { content: "\f112"; }
+.flaticon2-email:before { content: "\f113"; }
+.flaticon2-phone-call:before { content: "\f114"; }
+.flaticon2-carpenter:before { content: "\f115"; }
+.flaticon2-renovation:before { content: "\f116"; }
+.flaticon2-trowel:before { content: "\f117"; }
+.flaticon2-design:before { content: "\f118"; }
+.flaticon2-interview:before { content: "\f119"; }
+.flaticon2-engineer:before { content: "\f11a"; }
+.flaticon2-growth:before { content: "\f11b"; }
