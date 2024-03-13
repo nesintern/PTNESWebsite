@@ -5,6 +5,7 @@ class Header extends HTMLElement{
 
     connectedCallback() {
     this.innerHTML = `
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <header class="site-header header-style-2 inner-pages-header mobile-sider-drawer-menu">
 									<div class="top-bar site-bg-secondry">
 						<div class="container">
