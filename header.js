@@ -64,7 +64,7 @@ class Header extends HTMLElement{
 	<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="VisiMisiPTNES.html">Vision &amp; Mission</a></li>
 </ul>
 </li>
-<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35 has-child"><a>Services</a><div class="fa fa-angle-right submenu-toogle"></div>
+<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35 has-child"><a>Projects</a><div class="fa fa-angle-right submenu-toogle"></div>
 <ul class="sub-menu">
 	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="ProjectPTNES.html">Our Projects</a></li>
 	<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="ClientsPTNES.html">Our Clients</a></li>
@@ -81,7 +81,7 @@ class Header extends HTMLElement{
 <li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="https://ptnes.net/our-team/">Affiliates</a></li>
 <li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page page-item-361 "><a href="https://ptnes.net/blog-grid/" aria-current="page">News &amp; Article</a></li>
 <li id="menu-item-1104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1104"><a href="#">Certificates</a></li>
-<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://ptnes.net/contact-us/">Contact Us</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="ContactPTNES.html">Contact Us</a></li>
 </ul>
 							</div>
 													</div>    
