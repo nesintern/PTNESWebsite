@@ -4,7 +4,8 @@ class Header extends HTMLElement{
     }
 
     connectedCallback() {
-    this.innerHTML = `<header class="site-header header-style-2 inner-pages-header mobile-sider-drawer-menu">
+    this.innerHTML = `
+    <header class="site-header header-style-2 inner-pages-header mobile-sider-drawer-menu">
 									<div class="top-bar site-bg-secondry">
 						<div class="container">
 
@@ -30,7 +31,7 @@ class Header extends HTMLElement{
 							</div>
 						</div>
 					</div> 
-									<div class="sticky-wrapper" style="height: 100px;"><div class="sticky-header main-bar-wraper navbar-expand-lg is-fixed color-fill">
+			<div class="sticky-wrapper" style="height: 100px;"><div class="sticky-header main-bar-wraper navbar-expand-lg is-fixed color-fill">
 					<div class="main-bar">                       
 						<div class="container clearfix"> 
 							<div class="logo-header">
@@ -55,19 +56,18 @@ class Header extends HTMLElement{
 
 							<!-- MAIN Vav -->
 							<div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
-								<ul id="menu-main-menu" class="nav navbar-nav"><li id="menu-item-922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-922"><a href="https://ptnes.net/">Home</a></li>
-<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34 has-child"><a href="#">Our Story</a><div class="fa fa-angle-right submenu-toogle"></div>
+								<ul id="menu-main-menu" class="nav navbar-nav"><li id="menu-item-922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-922"><a href="index.html">Home</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34 has-child"><a>Our Company</a><div class="fa fa-angle-right submenu-toogle"></div>
 <ul class="sub-menu">
-	<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://ptnes.net/about-us-1/">Milestone</a></li>
-	<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="https://ptnes.net/about-us-2/">Vision &amp; Mission</a></li>
-	<li id="menu-item-1084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1084"><a href="http://ptnes.net/">BOD &amp; BOC</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="AboutPTNES.html">About us</a></li>
+	<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="VisiMisiPTNES.html">Vision &amp; Mission</a></li>
 </ul>
 </li>
-<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35 has-child"><a href="#">Services</a><div class="fa fa-angle-right submenu-toogle"></div>
+<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35 has-child"><a>Services</a><div class="fa fa-angle-right submenu-toogle"></div>
 <ul class="sub-menu">
-	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="https://ptnes.net/services-one/">Coating Manufacture</a></li>
-	<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="https://ptnes.net/services-two/">Energy &amp; Power</a></li>
-	<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-376"><a href="https://ptnes.net/services/we-think-about-consumer/">Services Detail</a></li>
+	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="ProjectPTNES.html">Our Projects</a></li>
+	<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="ClientsPTNES.html">Our Clients</a></li>
+	<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-376"><a href="ClientsAndProjectsPTNES.html">Clients &amp; Projects</a></li>
 </ul>
 </li>
 <li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-36 has-child"><a href="#">Project</a><div class="fa fa-angle-right submenu-toogle"></div>
