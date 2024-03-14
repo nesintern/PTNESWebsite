@@ -16,7 +16,7 @@ class Footer extends HTMLElement{
 					<img src="index_files/PT-Nes-logo-putih.png" alt="img">
 				</a>
 			</div>
-			<p>Industroz industry has very good strength in innovative technology and tools San Francisco City Hall, San Francisco, CA.</p>
+			<p>PT NES is dedicated to be a Specialty Solutions Provider</p>
 							<ul class="social">
 											<li><a class="social-icon-footer-custom grid-small grid-linkedin" href="https://www.linkedin.com/company/pt-national-energy-solutions/mycompany/"><i class="fa fa-linkedin-square"></i></a></li>
 												<li><a class="social-icon-footer-custom grid-small grid-instagram" href="https://www.instagram.com/nesgroup_official?igsh=NTE2YXA3aXRvbm84"><i class="fa fa-instagram"></i></a></li>
