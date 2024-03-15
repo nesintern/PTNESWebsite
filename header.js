@@ -6,6 +6,13 @@ class Header extends HTMLElement{
     connectedCallback() {
     this.innerHTML = `
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<script src="https://unpkg.com/feather-icons"></script>
+
+	
+		<script>	feather.replace(); </script>
+	 
+	
     <header class="site-header header-style-2 inner-pages-header mobile-sider-drawer-menu">
 									<div class="top-bar site-bg-secondry">
 						<div class="container">
@@ -25,8 +32,16 @@ class Header extends HTMLElement{
 									</ul> 
 					
 									<ul class="social-icons">
-																					<li><a href="https://www.linkedin.com/company/pt-national-energy-solutions/mycompany/" class="fa fa-linkedin"></a></li>
-																						<li><a href="https://www.instagram.com/nesgroup_official?igsh=NTE2YXA3aXRvbm84" class="fa fa-instagram"></a></li>
+																					<li>
+																					<a href="https://www.linkedin.com/company/pt-national-energy-solutions/mycompany/" class="fa fa-linkedin"></a>
+																					</li>
+																						<li>
+																						<a href="https://www.instagram.com/nesgroup_official?igsh=NTE2YXA3aXRvbm84" class="fa fa-instagram"></a>
+																						</li>
+																						<li>
+																						
+																						<i data-feather="shopping-cart"></i>
+																						</li>
 																				</ul> 
 								</div>
 							</div>
@@ -34,11 +49,14 @@ class Header extends HTMLElement{
 					</div> 
 			<div class="sticky-wrapper" style="height: 100px;"><div class="sticky-header main-bar-wraper navbar-expand-lg is-fixed color-fill">
 					<div class="main-bar">                       
-						<div class="container clearfix"> 
-							<div class="logo-header">
-								<div class="logo-header-inner logo-header-one">
-									<a href="https://ptnes.net/">
-										<img src="index_files/PT-Nes-logo-warna.png" alt="PT National Energy Solutions">
+						<div> 
+							<div class="logo-header" style="width:80px">
+								<div style="width: 100px; height: 64px">
+									<a href="index.html">
+										<img src="index_files/PTNES_Logo_Real.jpg" alt="PT National Energy Solutions" width="64" height="64" style= "margin-left: 170px">
+											<div style="width: 500px; padding-left: 100px">
+												<h4> PT National Energy Solutions </h4>
+											</div>
 									</a>
 								</div>
 							</div>  
@@ -84,3 +102,4 @@ class Header extends HTMLElement{
 }
 }
 customElements.define('header-component', Header);
+
