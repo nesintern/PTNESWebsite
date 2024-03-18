@@ -21,18 +21,26 @@ class Footer extends HTMLElement{
 											<li><a class="social-icon-footer-custom grid-small grid-linkedin" href="https://www.linkedin.com/company/pt-national-energy-solutions/mycompany/"><i class="fa fa-linkedin-square"></i></a></li>
 												<li><a class="social-icon-footer-custom grid-small grid-instagram" href="https://www.instagram.com/nesgroup_official?igsh=NTE2YXA3aXRvbm84"><i class="fa fa-instagram"></i></a></li>
 										</ul>
-						</div></div><div id="nav_menu-4" class="col-lg-3 col-md-6 col-sm-12 widget_nav_menu industroz-widget"><div class="widget footer-widget"><h3 class="widget-title">Projects</h3><div class="menu-projects-new-home-container"><ul id="menu-projects-new-home" class="menu"><li id="menu-item-726" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-726"><a href="https://ptnes.net/projects/industry-complex/">Industry Complex</a></li>
-<li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-727"><a href="https://ptnes.net/projects/oil-pipeline-project/">Oil Pipeline Project</a></li>
-<li id="menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-728"><a href="https://ptnes.net/projects/gear-manufacturing/">Gear Manufacturing</a></li>
-<li id="menu-item-729" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-729"><a href="https://ptnes.net/projects/machine-engineering/">Machine Engineering</a></li>
-<li id="menu-item-730" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-730"><a href="https://ptnes.net/projects/warehouse-industry/">Warehouse Industry</a></li>
-<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-731"><a href="https://ptnes.net/projects/gothia-mining-factory/">Gothia Mining Factory</a></li>
-</ul></div></div></div><div id="nav_menu-6" class="col-lg-3 col-md-6 col-sm-12 widget_nav_menu industroz-widget"><div class="widget footer-widget"><h3 class="widget-title">Services</h3><div class="menu-services-new-home-container"><ul id="menu-services-new-home" class="menu"><li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-735"><a href="https://ptnes.net/services/we-fight-pollution/">We Fight Pollution</a></li>
-<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-736"><a href="https://ptnes.net/services/oil-pump/">Oil Pump</a></li>
-<li id="menu-item-737" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-737"><a href="https://ptnes.net/services/thermal-power/">Thermal Power</a></li>
-<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-738"><a href="https://ptnes.net/services/oil-resources/">Oil Resources</a></li>
-<li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-741"><a href="https://ptnes.net/services/oil-factory/">Oil Factory</a></li>
-<li id="menu-item-999" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-999"><a href="https://ptnes.net/services/chemical-analysis/">Chemical Analysis</a></li>
+						</div>
+						
+						</div>
+						
+						<div id="nav_menu-4" class="col-lg-3 col-md-6 col-sm-12 widget_nav_menu industroz-widget">
+						
+						<div class="widget footer-widget">
+						<h3 class="widget-title"></h3>
+						
+						<div class="menu-projects-new-home-container"><ul id="menu-projects-new-home" class="menu">
+						<li id="menu-item-726" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-726">	
+						
+						</li>
+	
+
+</ul></div></div></div><div id="nav_menu-6" class="col-lg-3 col-md-6 col-sm-12 widget_nav_menu industroz-widget"><div class="widget footer-widget">
+
+<h3 class="widget-title"></h3><div class="menu-services-new-home-container">
+
+
 </ul></div></div></div><div id="contact_info-2" class="col-lg-3 col-md-6 col-sm-12 widget_contact_info industroz-widget"><div class="widget footer-widget"><h3 class="widget-title">Contact Us</h3>		
 		<div class="contact-footer-widget">
 							<div class="industroz-contact"><i class="fa fa-map-marker"></i>Jl. Letjen S. Parman No.Kav 77, RT.6/RW.3, 3, Slipi, Jakarta Barat</div>
