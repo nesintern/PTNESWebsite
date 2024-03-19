@@ -20,6 +20,9 @@ class Footer extends HTMLElement{
 							<ul class="social">
 											<li><a class="social-icon-footer-custom grid-small grid-linkedin" href="https://www.linkedin.com/company/pt-national-energy-solutions/mycompany/"><i class="fa fa-linkedin-square"></i></a></li>
 												<li><a class="social-icon-footer-custom grid-small grid-instagram" href="https://www.instagram.com/nesgroup_official?igsh=NTE2YXA3aXRvbm84"><i class="fa fa-instagram"></i></a></li>
+												<li>
+																						<a href="https://tokopedia.link/Vt8LpuG2eGb" class="fa fa-shopping-basket"></a>
+																						</li>
 										</ul>
 						</div>
 						
