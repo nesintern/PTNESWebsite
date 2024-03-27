@@ -86,7 +86,7 @@ class Header extends HTMLElement{
 	<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="VisiMisiPTNES.html">Vision &amp; Mission</a></li>
 </ul>
 </li>
-<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35 has-child"><a>Projects</a><div class="fa fa-angle-right submenu-toogle"></div>
+<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35 has-child"><a href="ClientsPTNES.html">Projects</a><div class="fa fa-angle-right submenu-toogle"></div>
 <ul class="sub-menu">
 	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="ProjectPTNES.html">Our Projects</a></li>
 	<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-376"><a href="ClientsPTNES.html">Our Clients</a></li>
