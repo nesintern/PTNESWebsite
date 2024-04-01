@@ -1,9 +1,6 @@
 @charset "UTF-8";
 
-/*
-Theme Name: Industroz
-Adding Responsive styles. 
-*/
+
 @media only screen and (max-width:1760px) {
 	#page-boxed .main-bar {
 		padding-left: 15px;
@@ -1544,6 +1541,14 @@ Adding Responsive styles.
 }
 
 @media only screen and (max-width:600px) {
+
+	.logo-header h4 {
+			margin-left: -30px;
+		}
+	
+		.logo-header img {
+			margin-left: 150px !important;
+		}
 	.owl-btn-vertical-center .owl-nav .owl-prev, 
 	.owl-btn-vertical-center .owl-nav .owl-next{
 		top: 42%;

@@ -68,9 +68,9 @@ class Header extends HTMLElement{
 							<!-- NAV Toggle Button -->
 							<button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggler collapsed">
 								<span class="sr-only">Toggle navigation</span>
-								<span class="icon-bar icon-bar-first"></span>
-								<span class="icon-bar icon-bar-two"></span>
-								<span class="icon-bar icon-bar-three"></span>
+								<span class="icon-bar icon-bar-first">Lol</span>
+								<span class="icon-bar icon-bar-two">lol2</span>
+								<span class="icon-bar icon-bar-three">lol3</span>
 							</button> 
 							<div class="extra-nav header-2-nav">
 								<div class="extra-cell">

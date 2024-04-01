@@ -1,9 +1,5 @@
 @charset "UTF-8";
 
-/*
-Theme Name: Industroz
-Adding Responsive styles. 
-*/
 @media only screen and (max-width:1760px) {
 	#page-boxed .main-bar {
 		padding-left: 15px;
@@ -1146,6 +1142,7 @@ Adding Responsive styles.
 	.is-fixed .main-bar,
 	.is-fixed.color-fill .main-bar {
 		padding: 0px;
+		padding-left: -5px;
 	}
 	.footer-clear {
 		display: block !important;
@@ -1544,6 +1541,16 @@ Adding Responsive styles.
 }
 
 @media only screen and (max-width:600px) {
+
+	.logo-header h4
+	{
+		margin-left: -30px;
+	}
+	.logo-header img
+	{
+		margin-left: 150px !important;
+	}
+
 	.owl-btn-vertical-center .owl-nav .owl-prev, 
 	.owl-btn-vertical-center .owl-nav .owl-next{
 		top: 42%;
@@ -1579,6 +1586,7 @@ Adding Responsive styles.
 	}
 	body {
 		font-size: 14px;
+		
 	}
 	.masonry-filter>li a {
 		font-size: 20px !important;
@@ -1867,7 +1875,7 @@ Adding Responsive styles.
 		padding-right: 0px;
 	}
 	.navbar-toggler {
-		margin-left: 10px;
+		margin-right: 5px;
 	}
 	.header-style-2 .top-bar .wt-topbar-right .wt-topbar-info-2 li {
 		display: inline-block;
