@@ -1,0 +1,27 @@
+.darkmode
+{
+    background-color: rgb(35, 31, 31);
+    color:rgb(35, 31, 31);
+}
+
+.darkmode .section-full .p-t80 .p-b50 .bg-white
+{
+        background-color: rgb(35, 31, 31);
+        
+}
+
+.darkmode .header-style-2 .main-bar
+{
+    background-color: rgb(102, 103, 104);
+}
+
+.darkmode .header-style-2 .is-fixed.color-fill .main-bar
+{
+        background-color: rgb(102, 103, 104);
+    }
+
+.darkmode .bg-white
+{
+background-color: rgb(102, 103, 104);
+}
+

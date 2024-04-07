@@ -13,6 +13,8 @@ class Header extends HTMLElement{
 
 	
 		<script>	feather.replace(); </script>
+
+		
 	 
 	
     <header class="site-header header-style-2 inner-pages-header mobile-sider-drawer-menu">
@@ -56,8 +58,8 @@ class Header extends HTMLElement{
 						<div> 
 							<div class="logo-header" style="width:80px">
 								<div style="width: 100px; height: 64px">
-									<a href="index.html">
-										<img src="index_files/PTNES_Logo_Real.jpg" alt="PT National Energy Solutions" width="64" height="64" style= "margin-left: 170px">
+									<a class="NESLogo" href="index.html">
+										<img src="PTNES_Logo_Transparent.png" alt="PT National Energy Solutions" width="64" height="64" style= "margin-left: 170px">
 											<div style="width: 500px; padding-left: 100px">
 												<h4> PT National Energy Solutions </h4>
 											</div>
@@ -97,6 +99,8 @@ class Header extends HTMLElement{
 <li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page page-item-361 "><a href="NewsBlogPTNES.html">News &amp; Article</a></li>
 <li id="menu-item-1104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1104"><a href="#">Certificates</a></li>
 <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="ContactPTNES.html">Contact Us</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a onclick="toggledark()">toggledark</a></li>
+
 </ul>
 							</div>
 													</div>    

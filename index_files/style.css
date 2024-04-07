@@ -88,7 +88,10 @@ License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
 /*======================================
 1. GENERAL 
 ======================================*/
-
+.main-bar
+{
+	 /* colors for main header bar "background for header" */
+}
 body {
 	background-color: #FFF;
 	font-family: 'Poppins', sans-serif;
@@ -18896,4 +18899,9 @@ ul.wt-topbar-info-2.e-p-bx.text-white li a {
     padding-right: 10px;
 	width: 33px;
     height: auto;
+}
+
+.NESLogo
+{
+	image: url(index_files/PTNES_Logo_Real.jpg);
 }
